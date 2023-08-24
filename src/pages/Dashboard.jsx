@@ -1,6 +1,6 @@
 import React from 'react'
-import NavBar from './NavBar'
-import Body from './Body'
+import NavBar from '../components/NavBar'
+import Body from '../components/Body'
 
 function Dashboard() {
   return (
